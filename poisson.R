@@ -1,5 +1,6 @@
 #### R code for Crab example
 ####Poisson Regression Model for Count Data
+#### Notes: https://onlinecourses.science.psu.edu/stat504/book/export/html/165
 
 crab=read.table("data/crab.txt")
 colnames(crab)=c("Obs","C","S","W","Wt","Sa")
