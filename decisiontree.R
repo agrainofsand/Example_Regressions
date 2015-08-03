@@ -1,4 +1,9 @@
 ###### SOURCE: http://www.statmethods.net/advstats/cart.html
+## A decision tree consists of 3 types of nodes:
+## 1. Decision nodes - commonly represented by squares
+## 2. Chance nodes - represented by circles
+## 3. End nodes - represented by triangles
+
 
 # Classification Tree with rpart
 library(rpart)
